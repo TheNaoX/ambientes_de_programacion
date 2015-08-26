@@ -22,3 +22,5 @@
 TAREA:
   * Pensar en una propuesta de proyecto para la clase
   * Leer sobre MVC
+
+https://www.haikudeck.com/p/fqeLmhkwYp/ambientes-de-programacin
